@@ -34,24 +34,6 @@
                 >List</router-link
               >
             </li>
-            <li class="nav-item">
-              <router-link
-                to="/"
-                class="nav-link active"
-                aria-current="page"
-                href="#"
-                >Home</router-link
-              >
-            </li>
-            <li class="nav-item">
-              <router-link
-                to="/"
-                class="nav-link active"
-                aria-current="page"
-                href="#"
-                >Home</router-link
-              >
-            </li>
           </ul>
         </div>
       </div>
